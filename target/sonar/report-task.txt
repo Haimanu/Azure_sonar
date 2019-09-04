@@ -1,0 +1,6 @@
+projectKey=com.mkyong.com:java-web-project
+serverUrl=http://10.225.254.32:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://10.225.254.32:9000/dashboard/index/com.mkyong.com:java-web-project
+ceTaskId=AWz7JemUl7Ffer8P6DhC
+ceTaskUrl=http://10.225.254.32:9000/api/ce/task?id=AWz7JemUl7Ffer8P6DhC
